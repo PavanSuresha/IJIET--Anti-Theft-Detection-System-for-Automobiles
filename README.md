@@ -1,2 +1,3 @@
 # IJIET--Anti-Theft-Detection-System-for-Automobiles
 Final Year Project Submission
+To define a safekeeping alert device spending little work force with Internet of things, which help to observe and alerts when gestures or motion is detected and notifies the owner through mail if there is a security breach along with the burglar’s image. A credit card size Raspberry Pi with a advantage of Python software knobs the image processing, control algorithms used for the attentiveness then shows taken images to concern persons email by the use of Wi- Fi module. The system uses the pi camera for the capturing of images. Door lock, Steer lock and kill switch are the three levels of security provided by the system.
